@@ -1,6 +1,5 @@
 from typing import Optional, Type, Union
 
-import pydantic
 from pydantic import BaseModel
 
 
